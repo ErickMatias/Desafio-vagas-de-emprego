@@ -25,3 +25,10 @@ O objetivo é praticar lógica de programação, organização de projeto e fund
 
 ## 📂 Estrutura do Projeto
 
+Desafio-vagas-de-emprego/
+│
+├── index.html # Página principal
+├── style.css # Estilos gerais
+├── cadastro.php # Back-end para salvar vagas
+└── README.md # Documentação
+
