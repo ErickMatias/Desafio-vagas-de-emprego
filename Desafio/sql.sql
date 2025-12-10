@@ -1,0 +1,12 @@
+CREATE DATABASE vagas;
+
+USE vagas;
+
+CREATE TABLE dados(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    empresa VARCHAR(255) NOT NULL,
+    cargo VARCHAR(255) NOT NULL,
+    localizacao VARCHAR(255) NOT NULL,
+    habilidades VARCHAR(255) NOT NULL,
+    descricao VARCHAR(255) NOT NULL
+)

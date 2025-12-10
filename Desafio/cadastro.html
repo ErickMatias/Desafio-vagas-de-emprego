@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style_index.css">
+        <title>Cadastro de Vaga</title>
+    </head>
+    <body>
+        <header>
+            <h1>Cadastre sua vaga</h1>
+            <a href="index.php" class="link-voltar">Voltar</a>
+        </header>
+
+        <main>
+            <form action="action_cadastro.php" method="POST">
+                <input type="text" name="empresa" id="empresa" placeholder="Empresa" required><br/>
+                <input type="text" name="cargo" id="cargo" placeholder="Cargo" required><br/>
+                <input type="text" name="localizacao" id="localizacao" placeholder="Localização" required><br/>
+                <input type="text" name="habilidades" id="habilidades" placeholder="Habilidades" required><br/>
+                <textarea name="descricao" id="descricao" placeholder="Descrição" required></textarea><br/>
+                <button type="submit">Enviar</button>
+            </form>
+        </main>
+    </body>
+</html>
