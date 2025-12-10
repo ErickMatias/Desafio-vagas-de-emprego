@@ -1,2 +1,27 @@
-# Desafio-vagas-de-emprego
-Projeto desenvolvido para um desafio técnico que consiste em um sistema simples de cadastro de vagas de emprego. A aplicação utiliza PHP, MySQL e HTML/CSS, demonstrando conhecimentos em backend, integração com banco de dados, envio de formulários e estruturação básica de uma aplicação web.
+# 📌 Desafio – Vagas de Emprego
+
+Este projeto é um aplicativo simples desenvolvido para cadastrar vagas de emprego, exibí-las na interface e permitir organização básica das informações.  
+O objetivo é praticar lógica de programação, organização de projeto e fundamentos de desenvolvimento web.
+
+## 🚀 Funcionalidades
+
+- 📄 Cadastro de vagas com:
+  - Empresa  
+  - Cargo  
+  - Localização  
+  - Habilidades  
+  - Descrição  
+- 📌 Exibição das vagas cadastradas  
+- ✏️ Estrutura simples e ideal para estudos  
+- 🔧 Código limpo e organizado  
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **PHP** (caso utilize backend)
+- **Git & GitHub**
+
+## 📂 Estrutura do Projeto
+
